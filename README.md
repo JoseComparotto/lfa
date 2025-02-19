@@ -1,2 +1,2 @@
-# lfa
-Projeto para a Disciplina de LFA: Linguagens Formais e Autômatos
+# Projeto LFA
+Projeto para a Disciplina de Linguagens Formais e Autômatos
